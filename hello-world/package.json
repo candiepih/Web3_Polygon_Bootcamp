@@ -1,0 +1,30 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "learning web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candiepih/Web3_Polygon_Bootcamp.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "Alex Njagi (@candiepih)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candiepih/Web3_Polygon_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/candiepih/Web3_Polygon_Bootcamp#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.12.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
